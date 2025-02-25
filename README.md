@@ -60,7 +60,7 @@ Install Wireshark: Capture Packets -> Apply Filters -> Analyze Data
 </p>
 <p>
   
-Create an NSG -> Define Security Rules -> Associate NSG with Resources -> Monitory and Update![image](https://github.com/user-attachments/assets/32bedb7b-c35b-4591-bb00-3616f3ab6330)
+Create an NSG -> Define Security Rules -> Associate NSG with Resources -> Monitory and Update
 
 <br />
 
